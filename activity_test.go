@@ -1,1 +1,1 @@
-package gostrava_test
+package strava_test

@@ -1,1 +1,1 @@
-package gostrava
+package strava
